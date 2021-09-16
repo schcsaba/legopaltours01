@@ -1,0 +1,6 @@
+.About {
+    background-image: url("../../assets/Menu/motif1-op30.svg");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: calc(18em + 1vw);
+}

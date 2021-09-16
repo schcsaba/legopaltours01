@@ -1,0 +1,37 @@
+/* .Contact {
+  background-image: url("../../assets/Menu/mandala-op30.svg");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: calc(14em + 1vw);
+} */
+
+.Messenger {
+  pointer-events: none;
+}
+
+@media screen and (min-width: 601px) {
+  .Messenger {
+    width: calc(1em + 0.7vw);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .Messenger {
+    width: calc(1em + 1vw);
+  }
+}
+
+.FlexRow {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.FlexColumn {
+  flex: 50%;
+}
+
+@media screen and (max-width: 800px) {
+  .FlexRow {
+    flex-direction: column;
+  }
+}

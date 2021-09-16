@@ -1,0 +1,70 @@
+.Gopal {
+    height: calc(2.5em + 1vw);
+    pointer-events: none;
+}
+
+.Menu {
+    background-image: url("../../assets/Menu/motif1-op30.svg"), url("../../assets/Menu/mandala-op30.svg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: left center, right bottom;
+    background-size: calc(18em + 1vw), calc(18em + 1vw);
+}
+
+.MenuCard {
+    background: rgba(255, 255, 255, 0);
+}
+
+.MenuNew {
+    font-style: italic;
+    color: #FC3299;
+}
+
+.Messenger {
+    pointer-events: none;
+}
+
+@media screen and (min-width: 601px) {
+  .Messenger {
+    width: calc(1em + 0.7vw);
+  }
+}
+  
+@media screen and (max-width: 600px) {
+  .Messenger {
+    width: calc(1em + 1vw);
+  }
+}
+
+.CarteTable {
+	width: 100%;
+    max-width: 45em;
+	margin: auto;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+
+.CarteTable td {
+	padding: 0.1em 0 0 0;
+	vertical-align: bottom;
+}
+
+.CarteTable td:first-child {
+	text-align: left;
+    overflow: hidden;
+    position: relative;
+}
+	
+.CarteTable td:first-child::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 1500px;
+    height: 0px ;
+    margin-left: 0.5em;
+    border-bottom: 2px dotted;
+}
+
+.CarteTable td:last-child {
+	text-align: right;
+	width: 3.5em;
+}

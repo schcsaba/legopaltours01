@@ -1,0 +1,13 @@
+.App {
+    /* margin-left: 50px; */
+    /* margin-right: 50px; */
+    margin-bottom: 30px;
+}
+
+a {
+  color: #FFC107;
+}
+
+a:hover {
+  color: black;
+}

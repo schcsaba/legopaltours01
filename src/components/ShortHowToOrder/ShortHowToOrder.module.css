@@ -1,0 +1,9 @@
+.ShortHowToOrder {
+    text-align: center;
+    font-size: 22px;
+}
+
+.Messenger {
+    height: 30px;
+    pointer-events: none;
+}

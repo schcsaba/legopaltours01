@@ -1,0 +1,22 @@
+.HowToOrder {
+    text-align: center;
+    font-size: 22px;
+    background-image: url("../../assets/Menu/mandala-op30.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 500px, 500px;
+}
+
+.HowToOrderText {
+    text-align: center;
+}
+
+.Messenger {
+    height: 30px;
+    pointer-events: none;
+}
+
+.FlashCode {
+    height: 400px;
+    pointer-events: none;
+}
