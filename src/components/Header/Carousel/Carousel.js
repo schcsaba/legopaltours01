@@ -1,7 +1,6 @@
 import classes from './Carousel.module.css';
 import menutable from '../../../assets/Header/menutable.jpg';
 import facade from '../../../assets/Header/facade.jpg';
-import muffin from '../../../assets/Header/muffin.jpg';
 import speciale from '../../../assets/Header/speciale.jpg';
 import cheesecake_au_caramel from '../../../assets/Header/cheesecake_au_caramel.jpg';
 import tarte_au_chocolat from '../../../assets/Header/tarte_au_chocolat.jpg';
@@ -33,17 +32,6 @@ function carousel() {
                 {/* <Carousel.Caption>
                     <h3>Second slide label</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </Carousel.Caption> */}
-            </Carousel.Item>
-            <Carousel.Item>
-                  <img
-                    className="d-block w-100"
-                    src={muffin}
-                    alt="Muffin"
-                />
-                  {/* <Carousel.Caption>
-                    <h3>Third slide label</h3>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </Carousel.Caption> */}
             </Carousel.Item>
             <Carousel.Item>
