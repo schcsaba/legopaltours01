@@ -222,13 +222,13 @@ function Menu() {
                             <div className="text-center">
                                 <h3>Sur place, à emporter et en livraison</h3>
                                 <h4>Informations et réservations :</h4>
-                                Livraison / Emporter :{' '}
+                                Livraison à domicile :{' '}
                                 <a
                                     href="https://www.frerestoque.fr/shop/angers-centre-ville/gopal"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Le Gopal à Frères Toque
+                                    Cliquez ici
                                 </a>
                                 <br />
                                 Tél : 07 83 65 45 65
