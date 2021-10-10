@@ -71,54 +71,12 @@ function Menu() {
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <strong>Pannacotta</strong>
-                                        </td>
-                                        <td>
-                                            <strong>4,00€</strong>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
                                             <strong>Cheesecake</strong> (caramel
                                             beurre salé et noix de pécan
                                             grillées, mangue, fruits rouges...)
                                         </td>
                                         <td>
                                             <strong>4,50€</strong>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <strong>Tarte au citron</strong> (la
-                                            part)
-                                        </td>
-                                        <td>
-                                            <strong>4,00€</strong>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <strong>Gâteau du chef</strong> (la
-                                            part)
-                                        </td>
-                                        <td>
-                                            <strong>4,50€</strong>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <strong>Cupcake</strong>
-                                        </td>
-                                        <td>
-                                            <strong>4,00€</strong>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <strong>Mousse au chocolat</strong>
-                                        </td>
-                                        <td>
-                                            <strong>3,50€</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -131,11 +89,53 @@ function Menu() {
                                     </tr>
                                     <tr>
                                         <td>
+                                            <strong>Cupcake</strong>
+                                        </td>
+                                        <td>
+                                            <strong>4,00€</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>Mousse au chocolat vegan</strong>
+                                        </td>
+                                        <td>
+                                            <strong>4,50€</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>Pannacotta</strong>
+                                        </td>
+                                        <td>
+                                            <strong>4,50€</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>Tarte au citron</strong> (la
+                                            part)
+                                        </td>
+                                        <td>
+                                            <strong>4,50€</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
                                             <strong>Halava</strong> (gâteau
                                             semoule)
                                         </td>
                                         <td>
-                                            <strong>3,00€</strong>
+                                            <strong>3,50€</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>Gâteau du chef</strong> (la
+                                            part)
+                                        </td>
+                                        <td>
+                                            <strong>4,50€</strong>
                                         </td>
                                     </tr>
                                 </tbody>
