@@ -13,6 +13,10 @@ function about() {
                     <div>
                         <p>Créé à Tours en Novembre 2019, le Gopal vous propose de venir déguster une cuisine 100% végétarienne et végane dans un cadre calme et serein.</p>
                         <p>Dans une démarche écologique, nous nous efforçons d’utiliser au maximum des produits frais et de production locale... et tous nos plats et desserts sont faits maison !</p>
+                        <video width="640" height="360" controls>
+                            <source src="/video/le_gopal_clip.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
                     </div>
                     {/* <br />
                     <h1>Membres de l'équipe</h1>
