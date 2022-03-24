@@ -75,7 +75,7 @@ function shortContact() {
                         <br />
                         Livraison à domicile :{' '}
                         <a
-                            href="https://www.frerestoque.fr/shop/angers-centre-ville/gopal"
+                            href="https://www.frerestoque.fr/shop/tours-nord/gopal"
                             target="_blank"
                             rel="noreferrer"
                         >
