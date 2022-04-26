@@ -4,3 +4,8 @@
     background-position: left center;
     background-size: calc(18em + 1vw);
 }
+
+.About video {
+    width: 100%;
+    height: auto;
+}
