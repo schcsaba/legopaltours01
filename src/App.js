@@ -3,7 +3,7 @@ import classes from './App.module.css';
 import Header from './components/Header/Header';
 import ShortMission from './components/ShortMission/ShortMission';
 // import Christmas from './components/Christmas/Christmas';
-import Ascension from './components/Ascension/Ascension';
+// import Ascension from './components/Ascension/Ascension';
 import ShortContact from './components/ShortContact/ShortContact';
 import Menu from './components/Menu/Menu';
 // import ShortHowToOrder from './components/ShortHowToOrder/ShortHowToOrder';
@@ -25,7 +25,7 @@ function App() {
           <Route path="/" component={Header} />
           <Route path="/" exact component={ShortMission} />
           {/* <Route path="/" exact component={Christmas} /> */}
-          <Route path="/" exact component={Ascension} />
+          {/* <Route path="/" exact component={Ascension} /> */}
           <Route path="/" exact component={ShortContact} />
           <Route path="/" exact component={Menu} />
           <Route path="/" exact component={ShortReviewsFB} />
