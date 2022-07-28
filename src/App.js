@@ -4,6 +4,7 @@ import Header from './components/Header/Header';
 import ShortMission from './components/ShortMission/ShortMission';
 // import Christmas from './components/Christmas/Christmas';
 // import Ascension from './components/Ascension/Ascension';
+import Vacation from './components/Vacation/Vacation';
 import ShortContact from './components/ShortContact/ShortContact';
 import Menu from './components/Menu/Menu';
 // import ShortHowToOrder from './components/ShortHowToOrder/ShortHowToOrder';
@@ -24,6 +25,7 @@ function App() {
         <Container>
           <Route path="/" component={Header} />
           <Route path="/" exact component={ShortMission} />
+          <Route path="/" exact component={Vacation} />
           {/* <Route path="/" exact component={Christmas} /> */}
           {/* <Route path="/" exact component={Ascension} /> */}
           <Route path="/" exact component={ShortContact} />
