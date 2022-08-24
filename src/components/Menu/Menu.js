@@ -27,40 +27,40 @@ function Menu() {
                                             </strong>
                                         </td>
                                         <td>
-                                            <strong>8,50€</strong>
+                                            <strong>9,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
                                             <strong>Plat du jour</strong> : riz
-                                            parfumé + curry <strong>ou</strong>{' '}
+                                            parfumé <strong>+</strong> curry <strong>ou</strong>{' '}
                                             boulettes de légumes{' '}
                                             <strong>ou</strong> soupe (au choix)
-                                            + galette papadam
+                                            <strong>+</strong> galette papadam
                                         </td>
                                         <td>
-                                            <strong>10,50€</strong>
+                                            <strong>11,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
                                             <strong>Menu « Gopal »</strong> :
-                                            salade composée + riz parfumé +
-                                            curry + boulettes de légumes + soupe
-                                            + galette papadam
+                                            salade composée <strong>+</strong> riz parfumé <strong>+</strong>{' '}
+                                            curry <strong>+</strong> boulettes de légumes <strong>+</strong> soupe
+                                            <strong>+</strong> galette papadam
                                         </td>
                                         <td>
-                                            <strong>14,50€</strong>
+                                            <strong>16,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
                                             <strong>Spéciale du chef</strong> :
                                             ex : lasagne royale, calzoni,
-                                            fougasse, etc... + salade composée
+                                            fougasse, etc... <strong>+</strong> salade composée
                                         </td>
                                         <td>
-                                            <strong>12,50€</strong>
+                                            <strong>13,50 €</strong>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -71,12 +71,11 @@ function Menu() {
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <strong>Cheesecake</strong> (caramel
-                                            beurre salé et noix de pécan
-                                            grillées, mangue, fruits rouges...)
+                                            <strong>Cheesecake</strong> (caramel/chocolat,
+                                            mangue ou fruits rouges...)
                                         </td>
                                         <td>
-                                            <strong>4,50€</strong>
+                                            <strong>5,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -84,15 +83,16 @@ function Menu() {
                                             <strong>Crumble</strong>
                                         </td>
                                         <td>
-                                            <strong>4,00€</strong>
+                                            <strong>5,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <strong>Cupcake</strong>
+                                            <strong>Cupcake</strong>{' '}
+                                            ( ex : chocolat, crème de marron, framboise... )
                                         </td>
                                         <td>
-                                            <strong>4,00€</strong>
+                                            <strong>5,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -100,42 +100,39 @@ function Menu() {
                                             <strong>Mousse au chocolat vegan</strong>
                                         </td>
                                         <td>
-                                            <strong>4,50€</strong>
+                                            <strong>4,80 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <strong>Pannacotta</strong>
+                                            <strong>Pannacotta vegan</strong>
                                         </td>
                                         <td>
-                                            <strong>4,50€</strong>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <strong>Tarte au citron</strong> (la
-                                            part)
-                                        </td>
-                                        <td>
-                                            <strong>4,50€</strong>
+                                            <strong>5,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <strong>Halava</strong> (gâteau
-                                            semoule)
+                                            <strong>Gâteau du chef (la part)</strong>
                                         </td>
                                         <td>
-                                            <strong>3,50€</strong>
+                                            <strong>5,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <strong>Gâteau du chef</strong> (la
-                                            part)
+                                            <strong>Halava (gâteau semoule)</strong>
                                         </td>
                                         <td>
-                                            <strong>4,50€</strong>
+                                            <strong>4,00 €</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>Tarte au citron (la part)</strong>
+                                        </td>
+                                        <td>
+                                            <strong>5,00 €</strong>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -146,12 +143,21 @@ function Menu() {
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <strong>Lassi</strong> (au yaourt
-                                            vegan, parfum mangue ou rose){' '}
+                                            <strong>Lassi</strong> ( au yaourt
+                                            vegan, parfum mangue ou rose ){' '}
                                             <strong>25 cl</strong>
                                         </td>
                                         <td>
-                                            <strong>2,50€</strong>
+                                            <strong>3,00 €</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>Limonade maison</strong> ( menthe fraîche, citron vert, gingembre ){' '}
+                                            <strong>25 cl</strong>
+                                        </td>
+                                        <td>
+                                            <strong>3,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -161,7 +167,7 @@ function Menu() {
                                             </strong>
                                         </td>
                                         <td>
-                                            <strong>2,00€</strong>
+                                            <strong>2,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -171,7 +177,7 @@ function Menu() {
                                             </strong>
                                         </td>
                                         <td>
-                                            <strong>3,00€</strong>
+                                            <strong>3,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -179,7 +185,7 @@ function Menu() {
                                             <strong>Tisane 20 cl</strong>
                                         </td>
                                         <td>
-                                            <strong>1,50€</strong>
+                                            <strong>1,80 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -189,7 +195,7 @@ function Menu() {
                                             </strong>
                                         </td>
                                         <td>
-                                            <strong>2,00€</strong>
+                                            <strong>2,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -197,7 +203,7 @@ function Menu() {
                                             <strong>Eau plate 50 cl</strong>
                                         </td>
                                         <td>
-                                            <strong>2,00€</strong>
+                                            <strong>2,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -205,7 +211,7 @@ function Menu() {
                                             <strong>Café expresso</strong>
                                         </td>
                                         <td>
-                                            <strong>1,80€</strong>
+                                            <strong>2,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -213,14 +219,14 @@ function Menu() {
                                             <strong>Double expresso</strong>
                                         </td>
                                         <td>
-                                            <strong>2,20€</strong>
+                                            <strong>2,80 €</strong>
                                         </td>
                                     </tr>
                                 </tbody>
                             </table>
                             <br />
                             <div className="text-center">
-                                <h3>Sur place, à emporter et en livraison</h3>
+                                <h3>Sur place ou à emporter ou livraison à domicile</h3>
                                 <h4>Informations et réservations :</h4>
                                 Livraison à domicile :{' '}
                                 <a

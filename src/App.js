@@ -15,7 +15,8 @@ import Terms from './components/Terms/Terms';
 // import Privacy from './components/Privacy/Privacy';
 import Footer from './components/Footer/Footer';
 import Reviews from './components/Reviews/Reviews';
-import ShortReviewsFB from './components/ShortReviewsFB/ShortReviewsFB';
+// import ShortReviewsFB from './components/ShortReviewsFB/ShortReviewsFB';
+import shortReviewsGoogle from './components/ShortReviewsGoogle/ShortReviewsGoogle';
 import Container from 'react-bootstrap/Container';
 
 function App() {
@@ -30,7 +31,8 @@ function App() {
           {/* <Route path="/" exact component={Ascension} /> */}
           <Route path="/" exact component={ShortContact} />
           <Route path="/" exact component={Menu} />
-          <Route path="/" exact component={ShortReviewsFB} />
+          {/* <Route path="/" exact component={ShortReviewsFB} /> */}
+          <Route path="/" exact component={shortReviewsGoogle} />
           {/* <Route path="/" exact component={ShortHowToOrder} /> */}
           {/* <Route path="/comment-commander" exact component={HowToOrder} /> */}
           <Route path="/a-propos" exact component={About} />
