@@ -7,6 +7,7 @@ import Christmas from './components/Christmas/Christmas';
 // import Vacation from './components/Vacation/Vacation';
 import ShortContact from './components/ShortContact/ShortContact';
 import Menu from './components/Menu/Menu';
+import GiftCard from './components/GiftCard/GiftCard';
 // import ShortHowToOrder from './components/ShortHowToOrder/ShortHowToOrder';
 // import HowToOrder from './components/HowToOrder/HowToOrder';
 import About from './components/About/About';
@@ -31,6 +32,7 @@ function App() {
           {/* <Route path="/" exact component={Ascension} /> */}
           <Route path="/" exact component={ShortContact} />
           <Route path="/" exact component={Menu} />
+          <Route path="/" exact component={GiftCard} />
           {/* <Route path="/" exact component={ShortReviewsFB} /> */}
           <Route path="/" exact component={shortReviewsGoogle} />
           {/* <Route path="/" exact component={ShortHowToOrder} /> */}
