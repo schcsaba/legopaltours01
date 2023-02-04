@@ -60,7 +60,7 @@ function Contact() {
                         Samedi : 12h à 14h30
                     </p>
                     <h5>Coordonnées :</h5>
-                    <p>8 Avenue du Mans, 37100 Tours, France<br />Tél : 07 83 65 45 65<br />Email : contact@legopal.fr<br />Messenger :{" "}
+                    <p>8 Avenue du Mans, 37100 Tours, France<br />Tél : <a href="tel:+33783654565">07 83 65 45 65</a><br />Email : <a href="mailto:contact@legopal.fr">contact@legopal.fr</a><br />Messenger :{" "}
                     <a
                       href="https://m.me/Legopaltours"
                       target="_blank"

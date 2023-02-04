@@ -237,9 +237,9 @@ function Menu() {
                                     Cliquez ici
                                 </a>
                                 <br />
-                                Tél : 07 83 65 45 65
+                                Tél : <a href="tel:+33783654565">07 83 65 45 65</a>
                                 <br />
-                                Email : contact@legopal.fr
+                                Email : <a href="mailto:contact@legopal.fr">contact@legopal.fr</a>
                                 <br />
                                 Messenger :{' '}
                                 <a

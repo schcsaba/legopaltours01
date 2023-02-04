@@ -14,7 +14,7 @@ function footer() {
                 <img src={logo} className={classes.FooterLogo} alt="logo" /><br />
             </Col>
             <Col xs={5} className={classes.FooterBorder}>
-                8 Avenue du Mans<br />37100 Tours, France<br />Tél : 07 83 65 45 65<br />Email : contact@legopal.fr<br />
+                8 Avenue du Mans<br />37100 Tours, France<br />Tél : <a href="tel:+33783654565">07 83 65 45 65</a><br />Email : <a href="mailto:contact@legopal.fr">contact@legopal.fr</a><br />
                 <HashLink to="/mentionslegales#top">Mentions légales et Politique de Confidentialité</HashLink>
             </Col>
             <Col className={classes.FooterBorder}>
