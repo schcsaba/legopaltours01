@@ -5,7 +5,7 @@ import ShortMission from './components/ShortMission/ShortMission';
 // import Christmas from './components/Christmas/Christmas';
 // import Ascension from './components/Ascension/Ascension';
 // import Vacation from './components/Vacation/Vacation';
-import Valentin from './components/Valentin/Valentin';
+// import Valentin from './components/Valentin/Valentin';
 import ShortContact from './components/ShortContact/ShortContact';
 import Menu from './components/Menu/Menu';
 import GiftCard from './components/GiftCard/GiftCard';
