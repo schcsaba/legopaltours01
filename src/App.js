@@ -31,7 +31,7 @@ function App() {
           {/* <Route path="/" exact component={Vacation} /> */}
           {/* <Route path="/" exact component={Christmas} /> */}
           {/* <Route path="/" exact component={Ascension} /> */}
-          <Route path="/" exact component={Valentin} />
+          {/* <Route path="/" exact component={Valentin} /> */}
           <Route path="/" exact component={ShortContact} />
           <Route path="/" exact component={Menu} />
           <Route path="/" exact component={GiftCard} />
