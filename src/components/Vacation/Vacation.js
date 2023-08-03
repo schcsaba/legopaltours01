@@ -9,8 +9,8 @@ function Vacation() {
             <Col>
                 <Card className={classes.VacationCard} border="warning">
                     <p>Bonjour à toutes et à tous,</p>
-                    <p>Le Gopal sera fermé du 1er Août au 7 Septembre.</p>
-                    <p>Nous vous souhaitons de très belles vacances ! 😊🙏 💙</p>
+                    <p>Le Gopal est fermé pour les grandes vacances. Réouverture le mardi 12 septembre.</p>
+                    <p>Bonnes vacances à vous et à très bientôt ! 😊🙏 💙</p>
                 </Card>
             </Col>
         </Row>
