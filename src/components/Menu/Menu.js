@@ -56,7 +56,7 @@ function Menu() {
                                     <tr>
                                         <td>
                                             <strong>Spéciale du chef</strong> :
-                                            ex : lasagne royale, calzoni,
+                                            lasagne royale, calzoni,
                                             fougasse, etc... <strong>+</strong> salade composée
                                         </td>
                                         <td>
@@ -83,7 +83,7 @@ function Menu() {
                                             <strong>Crumble</strong>
                                         </td>
                                         <td>
-                                            <strong>5,00 €</strong>
+                                            <strong>5,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -92,7 +92,7 @@ function Menu() {
                                             ( ex : chocolat, crème de marron, framboise... )
                                         </td>
                                         <td>
-                                            <strong>5,00 €</strong>
+                                            <strong>5,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -100,7 +100,7 @@ function Menu() {
                                             <strong>Mousse au chocolat vegan</strong>
                                         </td>
                                         <td>
-                                            <strong>4,80 €</strong>
+                                            <strong>5,50 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
@@ -113,7 +113,8 @@ function Menu() {
                                     </tr>
                                     <tr>
                                         <td>
-                                            <strong>Gâteau du chef (la part)</strong>
+                                            <strong>Gâteau du chef vegan</strong>{' '}
+                                            (la part)
                                         </td>
                                         <td>
                                             <strong>5,50 €</strong>
@@ -124,15 +125,16 @@ function Menu() {
                                             <strong>Halava (gâteau semoule)</strong>
                                         </td>
                                         <td>
-                                            <strong>4,00 €</strong>
+                                            <strong>5,00 €</strong>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <strong>Tarte au citron (la part)</strong>
+                                            <strong>Tarte au citron vegan</strong>{' '}
+                                            (la part)
                                         </td>
                                         <td>
-                                            <strong>5,00 €</strong>
+                                            <strong>5,50 €</strong>
                                         </td>
                                     </tr>
                                 </tbody>
