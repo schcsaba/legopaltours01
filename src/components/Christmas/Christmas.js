@@ -3,25 +3,32 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card';
 import Image from 'react-bootstrap/Image';
-import menu2022 from '../../assets/Christmas/menu2022.jpg';
-import buches2022 from '../../assets/Christmas/buches2022.jpg';
+import menu from '../../assets/Christmas/menu2023.jpeg';
+import buches from '../../assets/Christmas/buches2023.jpeg';
 
 function Christmas() {
     return (
         <Row id="christmas">
             <Col>
+                 <div className="text-center">
+                    <br />
+                    <h2>POUR LES FÊTES</h2>
+                </div>
                 <Card className={classes.ChristmasCard} border="warning">
-                    <p>Bonjour les ami(e)s,</p>
-                    <p>Voici notre menu de Noël 🎄😁 Uniquement à emporter pour le 23 et 24 Décembre.</p>
-                    <p>Comment ça marche ?</p>
-                    <p>Vous composez votre menu en choisissant une option dans chaque catégorie : amuse-bouches, entrées, plats et desserts.</p>
-                    <p>Vous passez votre commande par email: <a href='mailto:contact@legopal.fr'>contact@legopal.fr</a> ou au resto en personne avant le 17 Décembre.</p>
-                    <p>Vous venez la chercher au Gopal : vendredi 23 décembre de 18h à 21h ou samedi 24 de 10h30 à 15h *</p>
-                    <p>* À préciser lors de votre commande.</p>
-                    <p>Belle journée à vous 😊🙏</p>
-                    <Image src={menu2022} alt="Menu de Noël" fluid />
+                    <div className="text-center">
+                        <p>Nous sommes ravis de vous proposer des menus gourmands, végétarien ou végane, à emporter ainsi que deux sortes de bûches de Noël véganes.</p>
+                        <p>Comment commander ?</p>
+                        <p>Pour garder les choses simples nous acceptons uniquement les commandes passées en personne au Gopal ou sur notre boutique en ligne - Pas de SMS ou Messenger !!!</p>
+                        <p>Commandez dès maintenant sur notre boutique : </p>
+                        <p><a target='_blank' rel='noreferrer' href='https://gopal.sumupstore.com/'>https://gopal.sumupstore.com/</a></p>
+                        <p>Horaires pour venir récupérer vos menus et bûches au restaurant Gopal :</p>
+                        <p>Samedi 23 Décembre de 18h à 20h</p>
+                        <p>ou Dimanche 24 Décembre de 11h à 15h.</p>
+                        <p>(Lors de la commande, précisez quel jour vous passerez récupérer votre commande)</p>
+                    </div>
+                    <Image src={menu} alt="Menu de Noël" fluid />
                     <br></br>
-                    <Image src={buches2022} alt="Bûches de Noël" fluid />
+                    <Image src={buches} alt="Bûches de Noël" fluid />
                 </Card>
             </Col>
         </Row>

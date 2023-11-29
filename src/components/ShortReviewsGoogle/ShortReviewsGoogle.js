@@ -6,7 +6,7 @@ function shortReviewsGoogle() {
     return (
         <Row>
             <Col>
-                <ElfsightWidget widgetID={process.env.REACT_APP_ELFSIGHTWIDGET_SLIDER_GOOGLE_API_KEY} />
+                <ElfsightWidget widgetId={process.env.REACT_APP_ELFSIGHTWIDGET_SLIDER_GOOGLE_API_KEY} lazy modern />
             </Col>
         </Row>
     );
