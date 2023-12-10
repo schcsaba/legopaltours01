@@ -29,8 +29,7 @@ function Christmas() {
                         <p>ou <b>Dimanche 24 Décembre de 11h à 15h.</b></p>
                         <br></br>
                         <p><b>Horaires</b> pour venir récupérer <b>VOS MENUS</b> du <b>NOUVEL AN</b> :</p>
-                        <p><b>Samedi 30 Décembre de 18h à 20h</b></p>
-                        <p>ou <b>Dimanche 31 Décembre de 11h à 15h.</b></p>
+                        <p><b>Samedi 30 Décembre de 15h à 20h.</b></p>
                         <br></br>
                         <p>(Lors de la commande, précisez quel jour vous passerez récupérer votre commande)</p>
                     </div>
