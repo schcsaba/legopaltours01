@@ -108,7 +108,7 @@ function shortContact() {
                         <br />
                         <HashLink smooth to="/#reservation">
                             <Button className={classes.ReservationButton} variant="warning" size="lg">
-                                Réservez une table
+                                Réservez une table ici
                             </Button>
                         </HashLink>
                     </Card.Body>
