@@ -25,6 +25,10 @@
   margin-right: auto;
 }
 
+.ReservationButton:hover {
+  color: white;
+}
+
 @media screen and (min-width: 601px) {
   .Messenger {
     width: calc(1em + 0.7vw);

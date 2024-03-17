@@ -257,13 +257,23 @@ function Menu() {
                                     LeGopaltours
                                 </a>
                                 <h5>Tous nos plats sont faits maison.</h5>
+                                <br />
+                            </div>
+                            <div className="text-center" id="reservation">
+                                <h3>Réservez une table</h3>
+                                <iframe
+                                    src="https://widget.thefork.com/60d93c62-f1bb-412e-9206-93ab3a1900cb"
+                                    allow="payment *"
+                                    style={{ width: "100%", minHeight: "800px", border: "none", overflow: "scroll" }}
+                                    title="TheFork"
+                                ></iframe>
                             </div>
                         </Card.Body>
                     </Card>
                     <br />
                 </div>
             </Col>
-        </Row>
+        </Row >
     );
 }
 

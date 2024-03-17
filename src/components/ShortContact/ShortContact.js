@@ -2,7 +2,9 @@ import classes from './ShortContact.module.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
 import { LinkContainer } from 'react-router-bootstrap';
+import { HashLink } from 'react-router-hash-link';
 import messenger from '../../assets/Footer/messenger.png';
 
 function shortContact() {
@@ -103,11 +105,17 @@ function shortContact() {
                         Méthodes de paiement : Espèces · Visa · Mastercard ·
                         Ticket restaurant
                         <br />
+                        <br />
+                        <HashLink smooth to="/#reservation">
+                            <Button className={classes.ReservationButton} variant="warning" size="lg">
+                                Réservez une table
+                            </Button>
+                        </HashLink>
                     </Card.Body>
                 </Card>
                 <br />
             </Col>
-        </Row>
+        </Row >
     );
 }
 
